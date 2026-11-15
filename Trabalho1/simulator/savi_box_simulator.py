@@ -14,7 +14,7 @@ Without --batch, the simulator opens a window. Add boxes and change them in the 
 export to a new scene folder. Ctrl+Q closes the window. With --batch, it generates scenes from
 configuration files.
 
-World frame: origin at the centre of the table top, z up.
+World frame: origin at the center of the table top, z up.
 Camera frame: x right, y down, z forward.
 Units: meters.
 
